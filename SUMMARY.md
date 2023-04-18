@@ -2,7 +2,7 @@
  * @Author: zhoufei
  * @Date: 2021-02-19 11:14:49
  * @LastEditors: zhoufei
- * @LastEditTime: 2023-04-17 16:45:18
+ * @LastEditTime: 2023-04-18 08:51:08
  * @Description: Description
  * @FilePath: /gitbook/gitbookKnowledges/SUMMARY.md
  * @Route: Route
@@ -16,4 +16,5 @@
 * [Git将一个项目同时从本地推送到GitHub和Gitee](Git将一个项目同时从本地推送到GitHub和Gitee.md)
 * [搭建Gitbook Docker版](搭建Gitbook Docker版.md)
 * [git命令](git命令.md)
+* [巧用Github Action同步代码到Gitee](巧用Github Action同步代码到Gitee.md)
 
