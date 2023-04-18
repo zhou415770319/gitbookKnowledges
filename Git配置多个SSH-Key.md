@@ -50,6 +50,7 @@ $ ssh -T git@github.com
 ```
 $ ssh -T git@gitee.com
 
+You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
 
