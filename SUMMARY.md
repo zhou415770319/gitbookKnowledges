@@ -1,12 +1,3 @@
-<!--
- * @Author: zhoufei
- * @Date: 2021-02-19 11:14:49
- * @LastEditors: zhoufei
- * @LastEditTime: 2023-04-18 08:51:08
- * @Description: Description
- * @FilePath: /gitbook/gitbookKnowledges/SUMMARY.md
- * @Route: Route
--->
 # Summary
 
 * [gitbook使用介绍](README.md)

@@ -281,7 +281,26 @@ github账户-头像-`Settiings -> Secrets -> New repository`
 
 
 
+**安装** gitbook-summary
 
+```bash
+npm install -g gitbook-summary
+12
+```
+
+下载到路径：C:\Users\LENOVO\AppData\Roaming\npm\node_modules\gitbook-summary
+
+**使用**
+
+进入到项目根目录，执行`book sm`命令，即可生成SUMMARY.md文件。后面可带参数：
+
+
+
+3.问题记录
+
+# 用鼠标点击mind map后，整个图形会一直跟着鼠标走，怎么处理？
+
+plugins里面删除splitter
 
 
 
